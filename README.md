@@ -1,2 +1,2 @@
 # Exploration-Statistiques-Agricoles
-Analyses et exploration des données agricoles
+Analyses et explorations des données agricoles
